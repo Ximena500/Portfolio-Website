@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Ximena500/Portfolio-Website.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -48,11 +48,11 @@ To set up this project locally, follow these steps:
 
 ```
 portfolio-website/
-├── index.html         # Main HTML file
-├── /css               # Stylesheets
-├── /js                # JavaScript files
-├── /images            # Images and media
-└── README.md          # Project README file
+├── index.html          Main HTML file
+├── /css                Stylesheets
+├── /js                 JavaScript files
+├── /images             Images and media
+└── README.md           Project README file
 ```
 
 ## License
