@@ -57,7 +57,7 @@ portfolio-website/
 
 ## License
 
-This project is licensed under the MIT License - see the [Ximena](+254 745 399 922) file for details.
+This project is licensed under the MIT License - see the +254 745 399 922 file for details.
 
 ## Contact
 
